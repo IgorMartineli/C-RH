@@ -117,17 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="aym_ico_user" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\aym_ico_user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="contabilidade-na-era-digital" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\contabilidade-na-era-digital.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="https___blogs-images.forbes.com_oracle_files_2018_02_Zebra_tracking" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\https___blogs-images.forbes.com_oracle_files_2018_02_Zebra_tracking.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="os-4-principios-da-revolucao-do-rh-1571685135" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\os-4-principios-da-revolucao-do-rh-1571685135.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

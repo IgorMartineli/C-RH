@@ -59,5 +59,45 @@ namespace RH.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap aym_ico_user {
+            get {
+                object obj = ResourceManager.GetObject("aym_ico_user", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap contabilidade_na_era_digital {
+            get {
+                object obj = ResourceManager.GetObject("contabilidade-na-era-digital", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap https___blogs_images_forbes_com_oracle_files_2018_02_Zebra_tracking {
+            get {
+                object obj = ResourceManager.GetObject("https___blogs-images.forbes.com_oracle_files_2018_02_Zebra_tracking", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap os_4_principios_da_revolucao_do_rh_1571685135 {
+            get {
+                object obj = ResourceManager.GetObject("os-4-principios-da-revolucao-do-rh-1571685135", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
