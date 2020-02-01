@@ -10,5 +10,6 @@ namespace RH
     {
         public int id { get; set; }
         public String nome { get; set; }
+        public Boolean status { get; set; }
     }
 }

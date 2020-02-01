@@ -55,6 +55,13 @@
     <Compile Include="FrmCadastroUser.Designer.cs">
       <DependentUpon>FrmCadastroUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmSetor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSetor.Designer.cs">
+      <DependentUpon>FrmSetor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfil.cs" />
     <Compile Include="View\Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +93,9 @@
     <Compile Include="Util\CrypHash.cs" />
     <EmbeddedResource Include="FrmCadastroUser.resx">
       <DependentUpon>FrmCadastroUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSetor.resx">
+      <DependentUpon>FrmSetor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>

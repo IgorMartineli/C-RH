@@ -10,3 +10,4 @@ C:\Users\Aluno\documents\visual studio 2015\Projects\Recursos Humanos\RH\bin\Deb
 C:\Users\Aluno\documents\visual studio 2015\Projects\Recursos Humanos\RH\obj\Debug\RH.Menu.resources
 C:\Users\Aluno\documents\visual studio 2015\Projects\Recursos Humanos\RH\obj\Debug\RH.User.resources
 C:\Users\Aluno\documents\visual studio 2015\Projects\Recursos Humanos\RH\obj\Debug\RH.FrmLogin.resources
+C:\Users\Aluno\documents\visual studio 2015\Projects\Recursos Humanos\RH\obj\Debug\RH.FrmCadastroUser.resources

@@ -10,23 +10,22 @@ using System.Windows.Forms;
 
 namespace RH
 {
-    public partial class Menu : Form
+    public partial class FrmSetorCadastro : Form
     {
-        public Menu()
+        Conexao con;
+        Setor CadasSetor        
+            public FrmSetorCadastro()
         {
             InitializeComponent();
         }
 
-        private void Btn_User_Click(object sender, EventArgs e)
+        private void Btn_Cadastro_Setor_Click(object sender, EventArgs e)
         {
-            User user = new User();
-            user.Show();
+
         }
 
-        private void usuárioToolStripMenuItem_Click(object sender, EventArgs e)
+        private void CMB_Cadastro_Setor_SelectedIndexChanged(object sender, EventArgs e)
         {
-            FrmCadastroUser user = new FrmCadastroUser();
-            user.Show();
 
         }
     }
